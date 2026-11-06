@@ -1,0 +1,16 @@
+# Datos de clientes: nunca se suben (confidencialidad)
+*.xlsx
+*.xls
+*.csv
+*.pdf
+data/
+
+# Credenciales de Supabase
+.env
+.env.*
+*.key
+
+# Varios
+graphify-out/
+.DS_Store
+Thumbs.db
